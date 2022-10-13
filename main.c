@@ -1,6 +1,6 @@
 /**
- * First Student: Ammar Khan
- * Second Student: Muhammad Usman Shahid
+ * First Student: Ammar Khan (id: 991439943)
+ * Second Student: Muhammad Usman Shahid (id: 991446409)
  */
 
 #include <pthread.h>
