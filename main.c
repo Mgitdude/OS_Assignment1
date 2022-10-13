@@ -51,7 +51,7 @@ int main(int argc, char *argv[])
   
   if (argc < 2) 
   {
-	fprintf(stderr,"usage: a.out <integer value>\n");
+	fprintf(stderr,"usage: a.out <file name> <letter to find>\n");
 	return -1;
   }
 
